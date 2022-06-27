@@ -455,7 +455,7 @@ public class QuanLyNhanVien extends javax.swing.JFrame implements DAO {
             index = tblEmployeeManage.getSelectedRow();
             showDetail();
         } catch (Exception ex) {
-            JOptionPane.showMessageDialog(this, "It not have value.");
+            JOptionPane.showMessageDialog(this, "It not have value, please fill your information");
         }
     }//GEN-LAST:event_tblEmployeeManageMouseClicked
 
