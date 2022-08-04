@@ -402,6 +402,7 @@ public class QuanLyNhanVien extends javax.swing.JFrame implements DAO {
         } catch (Exception ex) {
             JOptionPane.showMessageDialog(this, "Dien id de xoa thong tin");
         }
+        //Như Hoàng chỉ bài coi ....
     }//GEN-LAST:event_btnDeleteActionPerformed
 
     private void btnFindActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnFindActionPerformed
